@@ -1,0 +1,5 @@
+El valor de n es igual a = 0 para 1.79
+El valor de n es igual a = 1 para 3.50
+El valor de n es igual a = 2 para 2.9
+El valor de n es igual a = 3 para 7.25
+El valor de n es igual a = 4 para 9.50
